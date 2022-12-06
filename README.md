@@ -15,7 +15,7 @@ Customer Data (To Be Copied) in SWagger
 "customerId":0,
 "firstName":"Vishesh",
 "lastName":"Guria",
-"mobileNumber":"9988332537",
+"mobileNumber":"9988334455",
 "password":"password",
-"email":"vishesh@gmail.com"
+"email":"v@gmail.com"
 }
